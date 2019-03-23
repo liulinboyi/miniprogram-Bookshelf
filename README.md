@@ -35,7 +35,7 @@
 
 #### <font color=red>手机实际运行：</font>
 
-<img src="https://ws1.sinaimg.cn/large/8660d1bbly1g1chojms63j20u01hck5a.jpg" style="width:80%"/>
+<img src="https://ws1.sinaimg.cn/large/8660d1bbly1g1chojms63j20u01hck5a.jpg" width="80%"/>
 
 
 
