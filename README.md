@@ -35,15 +35,15 @@
 
 #### <font color=red>手机实际运行：</font>
 
-![](https://ws1.sinaimg.cn/large/8660d1bbly1g1chojms63j20u01hck5a.jpg){:height="50%" width="50%"}
+<img src="https://ws1.sinaimg.cn/large/8660d1bbly1g1chojms63j20u01hck5a.jpg" style="zoom:50%"/>
 
 
 
-![](https://ws1.sinaimg.cn/large/8660d1bbly1g1chofz8guj20u01hcjxv.jpg){:height="50%" width="50%"}
+<img src="https://ws1.sinaimg.cn/large/8660d1bbly1g1chofz8guj20u01hcjxv.jpg" style="zoom:50%"/>
 
 
 
-![](https://ws1.sinaimg.cn/large/8660d1bbly1g1chodm59kj20u01hcq5s.jpg){:height="50%" width="50%"}
+<img src="https://ws1.sinaimg.cn/large/8660d1bbly1g1chodm59kj20u01hcq5s.jpg" style="zoom:50%" />
 
 `更多界面等你发现···`
 
