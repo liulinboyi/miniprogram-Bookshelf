@@ -1,0 +1,12 @@
+{
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fafafa",
+    "navigationBarTitleText": "个人中心",
+    "navigationBarTextStyle": "black",
+    "usingComponents": {
+      "van-collapse": "/static/vant/collapse/index",
+      "van-collapse-item": "/static/vant/collapse-item/index",
+      "van-popup": "/static/vant/popup/index",
+      "van-button": "/static/vant/button/index"
+    }
+  }

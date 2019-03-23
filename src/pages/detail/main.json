@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "top": "/static/top/index"
+  },
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fafafa",
+    "navigationBarTextStyle": "black"
+
+  }

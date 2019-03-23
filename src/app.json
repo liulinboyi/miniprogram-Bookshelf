@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/books/main",
+    "pages/Me/main",
+    "pages/logs/main",
+    "pages/common/main",
+    "pages/detail/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fafafa",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+      "selectedColor":"#E21918",
+      "list":[
+        {
+            "pagePath":"pages/books/main",
+            "text":"图书",
+        "iconPath":"static/icon/read.png",
+        "selectedIconPath":"static/icon/readed.png"
+        },
+        {
+            "pagePath":"pages/common/main",
+            "text":"我的分享",
+        "iconPath":"static/icon/say.png",
+        "selectedIconPath":"static/icon/sayed.png"
+        },
+        {
+            "pagePath":"pages/Me/main",
+            "text":"个人中心",
+        "iconPath":"static/icon/people.png",
+        "selectedIconPath":"static/icon/peopleed.png"
+        }
+      ]
+
+  },
+  "navigateToMiniProgramAppIdList": [
+    "小程序跳转AppId"
+  ]
+}
