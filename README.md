@@ -21,6 +21,8 @@
 
 #### <font color=red>首先呈现运行界面(微信开发者工具截图)：</font>
 
+
+
 ![](https://ws1.sinaimg.cn/large/8660d1bbly1g1cgh0g4fjj20dw0j2q5s.jpg)
 
 
@@ -33,15 +35,15 @@
 
 #### <font color=red>手机实际运行：</font>
 
-![](https://ws1.sinaimg.cn/large/8660d1bbly1g1chojms63j20u01hck5a.jpg)
+![](https://ws1.sinaimg.cn/large/8660d1bbly1g1chojms63j20u01hck5a.jpg){:height="50%" width="50%"}
 
 
 
-![](https://ws1.sinaimg.cn/large/8660d1bbly1g1chofz8guj20u01hcjxv.jpg)
+![](https://ws1.sinaimg.cn/large/8660d1bbly1g1chofz8guj20u01hcjxv.jpg){:height="50%" width="50%"}
 
 
 
-![](https://ws1.sinaimg.cn/large/8660d1bbly1g1chodm59kj20u01hcq5s.jpg)
+![](https://ws1.sinaimg.cn/large/8660d1bbly1g1chodm59kj20u01hcq5s.jpg){:height="50%" width="50%"}
 
 `更多界面等你发现···`
 
