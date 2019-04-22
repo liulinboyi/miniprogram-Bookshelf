@@ -1,6 +1,6 @@
 # 项目：小程序“读了几本书”
 
-**修复 不能启动错误**
+**修复 启动报错**
 
 ![](https://ws1.sinaimg.cn/large/8660d1bbly1g2bg222werj20qo0dcmx5.jpg)
 
